@@ -119,4 +119,5 @@ footer {
 @media (min-height: 600px) and (min-width: 375px) {
   body {
     padding-top: 6rem;
+  }
 }
